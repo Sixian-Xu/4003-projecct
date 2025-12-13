@@ -1,0 +1,1287 @@
+{
+  "TP": 6,
+  "FP": 13,
+  "FN": 56,
+  "Precision": 0.3157894736842105,
+  "Recall": 0.0967741935483871,
+  "F1": 0.14814814814814814,
+  "per_trial": {
+    "NCT02378428": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04673929": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05069935": {
+      "gs": [
+        "her2 positive"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT04185883": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05358249": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05019534": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05158491": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04523116": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04418167": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03516214": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03944499": {
+      "gs": [
+        "her2 positive",
+        "her2 expression"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 2
+    },
+    "NCT05384587": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03586453": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05011019": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03829540": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04649112": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05169437": {
+      "gs": [
+        "brca2 mutation (somatic)",
+        "brca2 mutation (germline)",
+        "brca1 mutation (germline)",
+        "brca1 mutation (somatic)"
+      ],
+      "llm_strict": [
+        "brca2 mutation (somatic)",
+        "brca2 mutation (germline)",
+        "brca1 mutation (germline)",
+        "brca1 mutation (somatic)"
+      ],
+      "TP": 4,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03783403": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05322408": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04140500": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT02848001": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05438368": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05099549": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03188965": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05207787": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03114319": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04973163": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04892693": {
+      "gs": [
+        "brca2 mutation (somatic)",
+        "brca2 mutation (germline)",
+        "brca1 mutation (germline)",
+        "brca1 mutation (somatic)"
+      ],
+      "llm_strict": [
+        "brca2 mutation (germline or somatic)",
+        "brca1 mutation (germline or somatic)"
+      ],
+      "TP": 0,
+      "FP": 2,
+      "FN": 4
+    },
+    "NCT05435274": {
+      "gs": [
+        "her2 exon 20 insertion",
+        "egfr exon 20 insertion"
+      ],
+      "llm_strict": [
+        "her2 exon 20 insertion mutation"
+      ],
+      "TP": 0,
+      "FP": 1,
+      "FN": 2
+    },
+    "NCT04625205": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05153343": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05245500": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03732703": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04896801": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04483284": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05510089": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04432649": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05302778": {
+      "gs": [
+        "her2 negative",
+        "her2 positive"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 2
+    },
+    "NCT05018520": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03732768": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05586321": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04901754": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05729178": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03793478": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04017130": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03724227": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05252416": {
+      "gs": [
+        "her2 positive"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT04467801": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05453500": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04996121": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03666000": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05483491": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03929666": {
+      "gs": [
+        "her2 expression"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT04204928": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03417427": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05128825": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03494296": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05043714": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04423536": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04294628": {
+      "gs": [
+        "her2 mutation",
+        "her2 amplification",
+        "her2 positive",
+        "her2 expression"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 4
+    },
+    "NCT03862885": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05546905": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04671849": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03921684": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03233854": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04758897": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04433156": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04192981": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05379985": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05271682": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04984369": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05028725": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04560725": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05692674": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03383575": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT02675829": {
+      "gs": [
+        "her2 mutation",
+        "her2 amplification",
+        "her2 s310f",
+        "her2 l755a",
+        "her2 l755s",
+        "her2 v659e",
+        "her2 v777l",
+        "her2 exon 20 insgsp",
+        "her2 exon 20 instgt",
+        "her2 exon 20 insyvma"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 10
+    },
+    "NCT04686682": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03925350": {
+      "gs": [
+        "brca2 alteration",
+        "brca1 mutation",
+        "brca2 mutation",
+        "brca1 alteration"
+      ],
+      "llm_strict": [
+        "brca1 mutation",
+        "brca2 mutation"
+      ],
+      "TP": 2,
+      "FP": 0,
+      "FN": 2
+    },
+    "NCT04708639": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05431270": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04916236": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04869501": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04745559": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04925544": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04820023": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05100134": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03815279": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04590326": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04692740": {
+      "gs": [
+        "gbrca2 deleterious mutation",
+        "gbrca1 deleterious mutation",
+        "brca mutation",
+        "brca1 uncertain significance",
+        "brca2 uncertain significance"
+      ],
+      "llm_strict": [
+        "gbrca2 mutation",
+        "gbrca1 mutation"
+      ],
+      "TP": 0,
+      "FP": 2,
+      "FN": 5
+    },
+    "NCT02098954": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04802980": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05650632": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05484622": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04908046": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04795713": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04659044": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04787029": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05557240": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04554719": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04693468": {
+      "gs": [
+        "brca1 defect",
+        "brca2 defect"
+      ],
+      "llm_strict": [
+        "brca1 mutation",
+        "brca2 mutation",
+        "somatic brca mutation",
+        "germline brca mutation"
+      ],
+      "TP": 0,
+      "FP": 4,
+      "FN": 2
+    },
+    "NCT04014205": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04683445": {
+      "gs": [
+        "her2 negative",
+        "her2 positive"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 2
+    },
+    "NCT05114603": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04092673": {
+      "gs": [
+        "her2 negative",
+        "her2 positive"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 2
+    },
+    "NCT04837222": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05357898": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04082572": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04524000": {
+      "gs": [
+        "her2 negative"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT05504213": {
+      "gs": [
+        "her2 negative"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT05389514": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05002868": {
+      "gs": [
+        "her2 positive"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT05003141": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04681820": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05554354": {
+      "gs": [
+        "her2 negative"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT05439889": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04445844": {
+      "gs": [
+        "her2 negative"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT05121948": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04235114": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04750941": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05007873": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04427449": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04420754": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04152018": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05611931": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04585035": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05178693": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04499794": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04585750": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT02693535": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04358458": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04446351": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04962867": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03064269": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05489783": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05401110": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04130542": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05453903": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04973683": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04778982": {
+      "gs": [
+        "her2 positive"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT04599556": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05339204": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05099172": {
+      "gs": [
+        "her2 activating mutation"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT04504071": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04853602": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04879121": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04015778": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04775745": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05382936": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05102292": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03206931": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05329545": {
+      "gs": [
+        "brca1 mutation",
+        "brca2 mutation"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 2
+    },
+    "NCT03708822": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04776018": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05415072": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04453397": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03029481": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04266912": {
+      "gs": [
+        "brca1 defect (germline)",
+        "brca1 aberration",
+        "brca2 defect (germline)",
+        "brca2 aberration"
+      ],
+      "llm_strict": [
+        "brca1 mutation",
+        "brca2 mutation"
+      ],
+      "TP": 0,
+      "FP": 2,
+      "FN": 4
+    },
+    "NCT05555212": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03375307": {
+      "gs": [
+        "brca2 alteration",
+        "brca1 alteration"
+      ],
+      "llm_strict": [
+        "brca1 mutation",
+        "brca2 mutation"
+      ],
+      "TP": 0,
+      "FP": 2,
+      "FN": 2
+    },
+    "NCT05122806": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05445310": {
+      "gs": [
+        "egfr exon 20 insertion"
+      ],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "NCT04749641": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT04903548": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05341570": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT03593993": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    "NCT05665062": {
+      "gs": [],
+      "llm_strict": [],
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    }
+  }
+}

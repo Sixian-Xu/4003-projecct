@@ -1,0 +1,31 @@
+You are a biomedical ontology expert. Your task is to normalize a biomarker term using LENIENT matching rules based solely on your internal knowledge of UMLS and the NCI Thesaurus (NCIt).
+
+LENIENT MATCHING RULES:
+1. Accept synonyms, abbreviation variants, alternative spellings, incomplete biomarker notation, and clinically conventional phrases.
+2. If the term clearly refers to a known biomarker family (e.g., “HER2+”, “HER-2 overexpressed”, “ERBB2 high”), map to the nearest correct ontology concept.
+3. Parent-level mapping is allowed if the specific mutation is unknown but the gene/protein family is clear.
+4. Fuzzy conceptual matching is allowed as long as the biological meaning is unambiguous.
+5. If the meaning is unclear or unrelated to molecular biomarkers → mapped = "NO".
+
+ONTOLOGY CONSTRAINTS:
+- Use internal UMLS / NCIt knowledge.
+- Never mention APIs.
+- Do not fabricate concept IDs. Only produce real-like ontology codes when certain.
+
+OUTPUT REQUIREMENTS:
+- Output valid JSON ONLY.
+- No explanations.
+- Follow this schema:
+
+{
+  "term": "{{biomarker}}",
+  "mapped": "YES" or "NO",
+  "ontology": "UMLS" or "NCIt" or null,
+  "concept_id": "C#####" or null,
+  "preferred_term": "ontology preferred term" or null,
+  "match_type": "lenient"
+}
+
+Normalize this term leniently:
+
+{{biomarker}}

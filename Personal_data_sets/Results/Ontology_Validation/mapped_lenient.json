@@ -1,0 +1,158 @@
+{
+  "her2 positive expression": null,
+  "her2 amplification": {
+    "ontology": "UMLS",
+    "code": "C5204780",
+    "preferred_term": "ERBB2 Gene Amplification Negative",
+    "match_type": "lenient"
+  },
+  "brca1 mutation (germline)": {
+    "ontology": "UMLS",
+    "code": "C1511022",
+    "preferred_term": "BRCA1 gene mutation",
+    "match_type": "lenient"
+  },
+  "brca1 mutation (somatic)": {
+    "ontology": "UMLS",
+    "code": "C1511022",
+    "preferred_term": "BRCA1 gene mutation",
+    "match_type": "lenient"
+  },
+  "brca2 mutation (germline)": {
+    "ontology": "UMLS",
+    "code": "C1511024",
+    "preferred_term": "BRCA2 gene mutation",
+    "match_type": "lenient"
+  },
+  "brca2 mutation (somatic)": {
+    "ontology": "UMLS",
+    "code": "C1511024",
+    "preferred_term": "BRCA2 gene mutation",
+    "match_type": "lenient"
+  },
+  "her2-negative breast cancer (her2\u2212)": null,
+  "brca1 mutation (germline or somatic)": {
+    "ontology": "UMLS",
+    "code": "C1511022",
+    "preferred_term": "BRCA1 gene mutation",
+    "match_type": "lenient"
+  },
+  "brca2 mutation (germline or somatic)": {
+    "ontology": "UMLS",
+    "code": "C1511024",
+    "preferred_term": "BRCA2 gene mutation",
+    "match_type": "lenient"
+  },
+  "her2 exon 20 insertion mutation": {
+    "ontology": "UMLS",
+    "code": "C4725889",
+    "preferred_term": "ERBB2 Exon 20 Insertion Mutation",
+    "match_type": "lenient"
+  },
+  "ccne1 amplification": null,
+  "her2-positive": null,
+  "her2-expressing": null,
+  "her2 ihc 1+ or above": null,
+  "her2 mutation": {
+    "ontology": "UMLS",
+    "code": "C4329262",
+    "preferred_term": "Activating ERBB2 Mutation",
+    "match_type": "lenient"
+  },
+  "insulin-treated diabetes": null,
+  "hsv seronegative": null,
+  "her2 exon 20 insertion (insyvma)": {
+    "ontology": "UMLS",
+    "code": "C4725889",
+    "preferred_term": "ERBB2 Exon 20 Insertion Mutation",
+    "match_type": "lenient"
+  },
+  "her2 exon 20 insertion (insgsp)": {
+    "ontology": "UMLS",
+    "code": "C4725889",
+    "preferred_term": "ERBB2 Exon 20 Insertion Mutation",
+    "match_type": "lenient"
+  },
+  "her2 exon 20 insertion (instgt)": {
+    "ontology": "UMLS",
+    "code": "C4725889",
+    "preferred_term": "ERBB2 Exon 20 Insertion Mutation",
+    "match_type": "lenient"
+  },
+  "her2 l755a": null,
+  "her2 l755s": null,
+  "her2 v777l": null,
+  "her2 v659e": null,
+  "her2 s310f": null,
+  "her2 amplification (ngs)": {
+    "ontology": "UMLS",
+    "code": "C5204780",
+    "preferred_term": "ERBB2 Gene Amplification Negative",
+    "match_type": "lenient"
+  },
+  "her2 amplification (ish her2/cep17 \u2265 2.0)": {
+    "ontology": "UMLS",
+    "code": "C5204780",
+    "preferred_term": "ERBB2 Gene Amplification Negative",
+    "match_type": "lenient"
+  },
+  "brca1 mutation": {
+    "ontology": "UMLS",
+    "code": "C1511022",
+    "preferred_term": "BRCA1 gene mutation",
+    "match_type": "lenient"
+  },
+  "brca2 mutation": {
+    "ontology": "UMLS",
+    "code": "C1511024",
+    "preferred_term": "BRCA2 gene mutation",
+    "match_type": "lenient"
+  },
+  "palb2 mutation": {
+    "ontology": "UMLS",
+    "code": "C4763563",
+    "preferred_term": "PALB2 Mutation Analysis",
+    "match_type": "lenient"
+  },
+  "bard1 mutation": null,
+  "brip1 mutation": null,
+  "rad50 mutation": null,
+  "rad51 mutation": null,
+  "gbrca1 mutation": {
+    "ontology": "UMLS",
+    "code": "C1511022",
+    "preferred_term": "BRCA1 gene mutation",
+    "match_type": "lenient"
+  },
+  "gbrca2 mutation": {
+    "ontology": "UMLS",
+    "code": "C1511024",
+    "preferred_term": "BRCA2 gene mutation",
+    "match_type": "lenient"
+  },
+  "brca1 vus": null,
+  "brca2 vus": null,
+  "germline brca mutation": {
+    "ontology": "UMLS",
+    "code": "C5555663",
+    "preferred_term": "BRCA Gene Mutation",
+    "match_type": "lenient"
+  },
+  "somatic brca mutation": {
+    "ontology": "UMLS",
+    "code": "C5555663",
+    "preferred_term": "BRCA Gene Mutation",
+    "match_type": "lenient"
+  },
+  "her2 positive": null,
+  "her2+": null,
+  "anti-her2 targeted therapy": null,
+  "her2+ (her2 3+ ihc or her2 2+ and fish+)": null,
+  "her2 positive breast cancer": null,
+  "her2-positive status": null,
+  "her2 exon20 insertion": null,
+  "no deleterious brca1 mutation": null,
+  "no deleterious brca2 mutation": null,
+  "somatic brca1/2 negative (confirmation required)": null,
+  "atm mutation": null
+}
