@@ -3,14 +3,33 @@
 OncoTrial-Biomarker-Dataset is a curated dataset of oncology clinical trial eligibility texts with gold-standard annotations for HER2/ERBB2 and BRCA1/2 biomarkers, designed for biomarker extraction and ontology mapping research.
 The dataset focuses on HER2/ERBB2 and BRCA1/BRCA2 biomarkers and includes raw eligibility text, manually curated gold-standard annotations, and evaluation outputs from large language model (LLM)–based extraction and ontology mapping pipelines.
 
-Data Source:
+## Data Source:
 https://github.com/BIMSBbioinfo/oncotrialLLM/blob/main/llm/data/interim/random_trials_annotated.json
-	•	Eligibility texts were obtained from publicly available oncology clinical trials (ClinicalTrials.gov).
-	•	Trials were randomly sampled and filtered to include oncology-related studies.
-	•	All data are public, de-identified, and contain no patient-level information.
- Annotation Range: HER2 / BRCA
+	-	Eligibility texts were obtained from publicly available oncology clinical trials (ClinicalTrials.gov).
+	-	Trials were randomly sampled and filtered to include oncology-related studies.
+	-	All data are public, de-identified, and contain no patient-level information.
+	-	Annotation Range: HER2 / BRCA
+	
+## Gold-Standard Annotation:
+```json
+{
+  "document": "full eligibility text",
+  "inclusion_biomarker": [["HER2 positive"]],
+  "exclusion_biomarker": [["BRCA1 mutation"]]
+}
 
-Dataset Structure:
+```markdown
+## Evaluation Outputs:
+This repository includes multiple evaluation artifacts:
+	- LLM-based extraction evaluation
+		- Sentence-level 1-shot extraction using GPT-based models
+	- Ontology mapping evaluation
+		- Strict and lenient string-based matching
+	- Oracle ontology mapping
+		- Gold-standard biomarkers mapped directly to ontology terms to estimate an upper bound on mapping performance
+
+## Dataset Structure:
+```text
 OncoTrial_Biomarker_Dataset/
 ├── Datasets/
 │   ├── Raw_data/
@@ -60,21 +79,7 @@ OncoTrial_Biomarker_Dataset/
 └── README.md
     # Documentation describing dataset scope, structure, and experimental setup
 
-Gold-Standard Annotation:
-{
-  "document": "full eligibility text",
-  "inclusion_biomarker": [["HER2 positive"]],
-  "exclusion_biomarker": [["BRCA1 mutation"]]
-}
 
-Evaluation Outputs:
-This repository includes multiple evaluation artifacts:
-	•	LLM-based extraction evaluation
-	•	Sentence-level 1-shot extraction using GPT-based models
-	•	Ontology mapping evaluation
-	•	Strict and lenient string-based matching
-	•	Oracle ontology mapping
-	•	Gold-standard biomarkers mapped directly to ontology terms to estimate an upper bound on mapping performance
 
 
  
