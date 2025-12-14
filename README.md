@@ -20,13 +20,7 @@ https://github.com/BIMSBbioinfo/oncotrialLLM/blob/main/llm/data/interim/random_t
 ```
 
 ## Evaluation Outputs:
-This repository includes multiple evaluation artifacts:
-	- LLM-based extraction evaluation
-		- Sentence-level 1-shot extraction using GPT-based models
-	- Ontology mapping evaluation
-		- Strict and lenient string-based matching
-	- Oracle ontology mapping
-		- Gold-standard biomarkers mapped directly to ontology terms to estimate an upper bound on mapping performance
+This repository includes multiple evaluation artifacts:1. LLM-based extraction evaluation(Sentence-level 1-shot extraction using GPT-based models); 2. Ontology mapping evaluation(Strict and lenient string-based matching); 3. Oracle ontology mapping(Gold-standard biomarkers mapped directly to ontology terms to estimate an upper bound on mapping performance)
 
 ## Dataset Structure:
 ```text
