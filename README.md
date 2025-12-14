@@ -9,7 +9,7 @@ https://github.com/BIMSBbioinfo/oncotrialLLM/blob/main/llm/data/interim/random_t
 	-	Trials were randomly sampled and filtered to include oncology-related studies.
 	-	All data are public, de-identified, and contain no patient-level information.
 	-	Annotation Range: HER2 / BRCA
-	
+
 ## Gold-Standard Annotation:
 ```json
 {
@@ -17,8 +17,8 @@ https://github.com/BIMSBbioinfo/oncotrialLLM/blob/main/llm/data/interim/random_t
   "inclusion_biomarker": [["HER2 positive"]],
   "exclusion_biomarker": [["BRCA1 mutation"]]
 }
+```
 
-```markdown
 ## Evaluation Outputs:
 This repository includes multiple evaluation artifacts:
 	- LLM-based extraction evaluation
